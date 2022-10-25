@@ -10,7 +10,7 @@ A few CPU player stratagies are implemtned, inheriting from the Agent,py base cl
 # Running
 - Python version 3.6+ (earlier versions of 3.x will probably also work)
 - Only standard python libs are used so it shouldn't be necesary to install any packages with pip
-- Run: "python main.py". The computer uses the minimax algorithm by default
+- Run: "python main.py"
 - Optional arguements can be used to specify the computer's stratagy: 
   - "-mcts"
   - "-random"
